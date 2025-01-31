@@ -1,3 +1,4 @@
+
 # 🔥💧 Elements Battle – A Mystical Tic-Tac-Toe Experience  
 
 **Elements Battle** transforms the classic Tic-Tac-Toe game into an **epic showdown** between **Fire** (🔥) and **Water** (💧) in a mystical arena. With **stunning animations, dynamic themes, and immersive visual effects**, this game delivers a next-level experience beyond the traditional grid!  
@@ -29,7 +30,7 @@
 
 ## 📸 Screenshots  
 
-[679cf031d2d6265445374f10](https://api.pikwy.com/web/679cf031d2d6265445374f10.jpg)
+<img width="431" alt="Capture" src="https://github.com/user-attachments/assets/82b4c00a-0fc7-442c-a6d1-0de43826209f" />
 
 ---
 
