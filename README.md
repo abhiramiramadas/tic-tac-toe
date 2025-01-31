@@ -49,5 +49,3 @@ This project is open-source under the MIT License.
 
 🔥💧 Let the battle begin! 🚀
 
-
-You can paste this into your `README.md` file, and it will format perfectly on GitHub. Let me know if you need any edits! 🚀🔥💧
